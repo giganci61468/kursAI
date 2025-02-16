@@ -1,1 +1,2 @@
 # kursAI
+testowa wiadomość
